@@ -1,3 +1,13 @@
+### Gratitude & Academic Foundation – 21 November 2025
+
+I am deeply grateful to Prof. Frank Nielsen for his publicly available and inspiring academic work and posts on information geometry, M-mixtures, and Bregman divergences.  
+These open scientific contributions directly inspired my questions and made it possible to create this practical code for real-world products and services (economic analysis tools and fast model merging).
+
+The theoretical foundation is fully based on Prof. Nielsen’s publicly available papers and posts – properly cited in the code and documentation.  
+As is standard in open science, Prof. Nielsen retains no copyright or rights to this specific implementation or to any commercial revenue generated from it.
+
+Thank you also to all researchers who openly shared mathematical formulas in geometry and arithmetic – your contributions toily enabled this project.
+
 # Real-vs-Nominal Growth Detector + Geometric Model Merger     https://x.com/i/grok/share/jYKhUEmHP0bQY4uKT1aiWHESo
 19 November 2025
 
