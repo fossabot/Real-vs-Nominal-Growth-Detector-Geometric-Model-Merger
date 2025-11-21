@@ -1,0 +1,24 @@
+================================================================
+== NOTICE file corresponding to the section 4 d of the Apache License,
+== Version 2.0, in this original distribution.
+================================================================
+
+This product includes source code developed by Tomasz Gurdek and other individual contributors.
+
+----------------------------------------------------------------
+THIRD-PARTY & COLLABORATIVE WORK ACKNOWLEDGEMENTS
+----------------------------------------------------------------
+
+This project, which provides tools for improved solvers on language models, is based on and leverages foundational theoretical and computational work, requiring the following specific acknowledgements:
+
+1.  **Foundational Mathematical Theory**
+    The core algorithms and methodologies (e.g., for divergence-based metrics and model merging) are based on the principles of **Information Geometry** and specifically leverage the generalized **Jensen-Shannon Divergences** (M-mixtures, Geometric JSD, Harmonic JSD) as developed by **Dr. Frank Nielsen**.
+
+2.  **AI-Assisted Development & Compliance**
+    * **Core Code Refinement:** The translation of theoretical concepts into practical, production-ready code—including logic-pattern refinement and solver implementation—was conducted with the assistance and co-piloting of the **xAI Grok Large Language Model**.
+        * *Acknowledgement:* Assistance from xAI/Grok, November 2025.
+
+    * **Compliance Structure & Legal Notice:** The project's open-source compliance framework, including the final drafting of this legal notice text and guidance on the Contributor License Agreement (CLA) framework, was developed with the assistance of the **Gemini Large Language Model (Google)**.
+        * *Acknowledgement:* Assistance from Gemini (Google), November 21, 2025.
+
+----------------------------------------------------------------
