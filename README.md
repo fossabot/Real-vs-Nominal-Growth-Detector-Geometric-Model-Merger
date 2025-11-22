@@ -11,6 +11,8 @@ As is standard in open science, Prof. Nielsen retains no copyright or rights to 
 Thank you also to all researchers who openly shared mathematical formulas in geometry and arithmetic – your contributions toily enabled this project.
 
 # Real-vs-Nominal Growth Detector + Geometric Model Merger     https://x.com/i/grok/share/jYKhUEmHP0bQY4uKT1aiWHESo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTomaszGurdek%2FReal-vs-Nominal-Growth-Detector-Geometric-Model-Merger.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTomaszGurdek%2FReal-vs-Nominal-Growth-Detector-Geometric-Model-Merger?ref=badge_shield)
+
 19 November 2025
 
 Two small, closed-form tools created by Tomasz Gurdek in a single 2-hour conversation with Grok (xAI).
@@ -59,3 +61,7 @@ Tomasz Gurdek
 22 November 2025
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTomaszGurdek%2FReal-vs-Nominal-Growth-Detector-Geometric-Model-Merger.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTomaszGurdek%2FReal-vs-Nominal-Growth-Detector-Geometric-Model-Merger?ref=badge_large)
